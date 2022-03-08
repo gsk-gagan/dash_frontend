@@ -1,0 +1,5 @@
+category,name,description,data,status,,
+Histogram,Risk return comparison,D1,Histogram_Risk return comparison.json,,,
+Histogram,Distribution comparison,D2,Histogram_Distribution comparison.json,Pre-approved,,
+Time Series,Time series comparison,D3,Time Series_Time series comparison.json,,,
+Bars,Values comparison,D4,Bars_Values comparison.json,Pre-denied,,
